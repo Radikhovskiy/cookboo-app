@@ -1,5 +1,3 @@
-# cookbook-app
-
 # Initial version of project "cookbook-app"
 
 ### swagger url:
